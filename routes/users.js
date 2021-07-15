@@ -4,7 +4,7 @@ const {check, validationResult} = require('express-validator');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const config = require('config');
-
+// User model in database
 const User = require('../modals/Users');
 
 /**
