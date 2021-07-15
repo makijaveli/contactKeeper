@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://makijaveli:OOkxUbmaCC2yhuMa@contactkeeper.ieatx.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURINew": "mongodb://makijaveli:OOkxUbmaCC2yhuMa@contactkeeper-shard-00-00.ieatx.mongodb.net:27017,contactkeeper-shard-00-01.ieatx.mongodb.net:27017,contactkeeper-shard-00-02.ieatx.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-fpuz16-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
